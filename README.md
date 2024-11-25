@@ -1,5 +1,7 @@
 # Rime古谚文输入方案
 
+译文：[繁體中文](README_translation/README_zh-HANT.md)
+
 ## 简介
 
 这是一个基于[Rime](https://rime.im/)的古谚文输入方案。可以以形码的方式，方便地输入古谚文字符和傍点。用户还可以根据喜好，对输出字符进行四种模式的调整。
@@ -41,7 +43,7 @@
 1. 安装好对应平台的输入法（安装地址见[Rime官网下载页](https://rime.im/download/)）；
 
 2. 将`yeshangulMT.schema.yaml`和`yashangulMT.dict.yaml`添加到用户文件夹；
-3. 将`json`文件和`ocd2`文件移动到程序文件夹的`data/opencc`目录下；
+3. 将`json`文件和`ocd2`文件添加到程序文件夹的`data/opencc`目录下；
 4. 重新部署您的输入法
 5. 切换到`옛한글_MT`使用输入法
 
@@ -64,8 +66,12 @@
 
 ### 输出模式切换
 
-输入法配置了四种输出模式，可方案选单中找到切换开关。
+输入法配置了四种输出模式，可在方案选单中找到切换开关。
 
 ## 贡献
 
 可通过Pull Request来进行代码贡献和Issue来提出问题。
+
+## 协议
+
+以MIT协议发布。
