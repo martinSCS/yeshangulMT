@@ -1,0 +1,16 @@
+{
+  "name": "jamoSingle",
+  "segmentation": {
+    "type": "mmseg",
+    "dict": {
+      "type": "ocd2",
+      "file": "jamoSingle.ocd2"
+    }
+  },
+  "conversion_chain": [{
+    "dict": {
+      "type": "ocd2",
+      "file": "jamoSingle.ocd2"
+    }
+  }]
+}

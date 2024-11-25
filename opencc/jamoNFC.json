@@ -1,0 +1,16 @@
+{
+  "name": "jamoNFC",
+  "segmentation": {
+    "type": "mmseg",
+    "dict": {
+      "type": "ocd2",
+      "file": "jamoNFC.ocd2"
+    }
+  },
+  "conversion_chain": [{
+    "dict": {
+      "type": "ocd2",
+      "file": "jamoNFC.ocd2"
+    }
+  }]
+}
