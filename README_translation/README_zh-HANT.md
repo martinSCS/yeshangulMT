@@ -42,7 +42,7 @@
 
 1. 安裝好對應平台的輸入法（安裝地址見[Rime官方下載頁](https://rime.im/download/)）；
 
-2. 將`yeshangulMT.schema.yaml`和`yashangulMT.dict.yaml`添加到用戶文件夾；
+2. 將`yeshangulMT.schema.yaml`和`yeshangulMT.dict.yaml`添加到用戶文件夾；
 3. 將`json`文檔和`ocd2`文檔添加到程序文件夹的`data/opencc`目錄下；
 4. 重新部署您的輸入法
 5. 切換到`옛한글_MT`使用輸入法
@@ -52,9 +52,10 @@
 ### 鍵盤佈局
 
 <figure>
-    <img src="src/keyboard_layout.svg" alt="圖1. 鍵盤佈局">
+    <img src="../src/keyboard_layout.svg" alt="圖1. 鍵盤佈局">
     <figcaption style="text-align: center; color: rgba(0, 0, 0, 60%); font-size: 0.85em">圖1. 鍵盤佈局</figcaption>
 </figure>
+
 
 
 鍵盤佈局參考了GitHub倉庫\`[5hwb/Old-Hangul-Input-Method](https://github.com/5hwb/Old-Hangul-Input-Method)\`。以下做出些许解释：

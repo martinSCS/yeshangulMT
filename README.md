@@ -42,7 +42,7 @@
 
 1. 安装好对应平台的输入法（安装地址见[Rime官网下载页](https://rime.im/download/)）；
 
-2. 将`yeshangulMT.schema.yaml`和`yashangulMT.dict.yaml`添加到用户文件夹；
+2. 将`yeshangulMT.schema.yaml`和`yeshangulMT.dict.yaml`添加到用户文件夹；
 3. 将`json`文件和`ocd2`文件添加到程序文件夹的`data/opencc`目录下；
 4. 重新部署您的输入法
 5. 切换到`옛한글_MT`使用输入法
