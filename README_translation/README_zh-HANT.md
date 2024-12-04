@@ -10,7 +10,7 @@
 
 - 四種可選的輸出模式
 
-  由於古諺文基本是由Hangul Jamo及其擴展區字元以初聲（초성, Choseong）、中聲（중성, Jungseong）和可選的終聲（종성, Jongseong）組合而成的，且Unicode有較為複雜的等價變換處理。
+  由於古諺文基本是由Hangul Jamo及其擴展區字元以初聲（초성, Choseong, Choseng, Ch'osŏng）、中聲（중성, Jungseong, Cungseng, Chungsŏng）和可選的終聲（종성, Jongseong, Congseng, Chongsŏng）組合而成的，且Unicode有較為複雜的等價變換處理。
 
   1. 無變換（무변환）
 
